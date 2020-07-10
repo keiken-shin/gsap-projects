@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1390" height="924" viewBox="0 0 1390 924">
+  <g id="Sushi" transform="translate(-80 -78)">
+    <rect id="frame" width="1390" height="924" transform="translate(80 78)" fill="none"/>
+    <circle id="bg2" cx="220" cy="220" r="220" transform="translate(395 256)" fill="#a2ffe2" opacity="0.4"/>
+    <circle id="bg1" cx="43" cy="43" r="43" transform="translate(913 273)" fill="#a2ffe2" opacity="0.4"/>
+    <g id="Bowl" transform="translate(-4 -34)">
+      <path id="Path_5" data-name="Path 5" d="M833.37,702S1040.485,856.3,1121,858s138.005-39.535,156-92.952S1014.489,702,1014.489,702s-26.085,18.909-71.365,18.909C892.431,726.815,833.37,702,833.37,702Z" transform="translate(-185)" fill="#039968"/>
+      <path id="Path_1" data-name="Path 1" d="M965,546s-80.108-1.183-117-39S692,351,692,351s.862-38.993,273-39,273,39,273,39-116.486,115.956-156,156S965,546,965,546Z" transform="translate(-226 177)" fill="none" stroke="#fff" stroke-width="8"/>
+      <path id="Path_2" data-name="Path 2" d="M692,351s-.611,25.632,273,25.632S1238,351,1238,351" transform="translate(-226 177)" fill="none" stroke="#fff" stroke-width="8"/>
+    </g>
+    <path id="Chopstick_2" data-name="Chopstick 2" d="M-178.641,217.048l-.2.158a2.4,2.4,0,0,1-.212-.42,2.4,2.4,0,0,1-.355-.306l.2-.157c-.4-1.515-.37-4.87,5.168-9.213C-166.406,201.122,66.882,12.516,75.044,6.158c6.631-5.166,11.753-.8,13.441,1.02l.029-.023s.109.13.281.37c.188.221.286.356.286.356l-.028.022c1.357,2.078,4.355,8.1-2.262,13.289C78.646,27.572-160.795,208.3-168.452,214.264c-3.394,2.641-5.931,3.376-7.706,3.376A5.093,5.093,0,0,1-178.641,217.048Z" transform="matrix(0.995, -0.105, 0.105, 0.995, 975.253, 331.091)" fill="#fff"/>
+    <path id="Chopstick_1" data-name="Chopstick 1" d="M-177.748,247.307l-.181.181a2.4,2.4,0,0,1-.261-.391,2.4,2.4,0,0,1-.389-.26l.18-.18c-.583-1.455-.962-4.788,4.006-9.775,6.848-6.873,215.412-222.5,222.738-229.81C54.3,1.135,59.914,4.847,61.81,6.447l.026-.026s.125.117.325.335c.212.2.325.316.325.316l-.025.025c1.6,1.9,5.31,7.513-.626,13.466C54.53,27.888-161.1,236.453-167.973,243.3c-3.494,3.481-6.176,4.337-7.969,4.336A4.834,4.834,0,0,1-177.748,247.307Z" transform="translate(968.194 299.944) rotate(-4)" fill="#fff"/>
+    <g id="Sushi_2" data-name="Sushi 2" transform="translate(-22.615 132.524) rotate(7)">
+      <path id="Union_1" data-name="Union 1" d="M0,59.245V12.153C0,5.441,20.916,0,46.715,0S93.43,5.441,93.43,12.153V59.245c0,6.712-20.915,12.152-46.715,12.152S0,65.957,0,59.245Z" transform="translate(729.284 379.505)" fill="#232323"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="35.036" cy="6.488" rx="35.036" ry="6.488" transform="translate(740.964 383.398)" fill="#fff"/>
+    </g>
+    <g id="Sushi_1" data-name="Sushi 1" transform="matrix(-0.766, 0.643, -0.643, -0.766, 831.406, 628.223)">
+      <path id="Union_1-2" data-name="Union 1" d="M0,8.981v34.8c0,4.961,15.457,8.982,34.524,8.982s34.524-4.021,34.524-8.982V8.981C69.049,4.021,53.592,0,34.524,0S0,4.021,0,8.981Z" transform="translate(0 0)" fill="#232323"/>
+      <ellipse id="Ellipse_3-2" data-name="Ellipse 3" cx="25.893" cy="4.795" rx="25.893" ry="4.795" transform="translate(8.631 40.299)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
